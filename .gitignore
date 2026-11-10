@@ -1,0 +1,9 @@
+.DS_Store
+._*
+.git/
+*.bak
+*.before
+*.private.plist
+/oc/
+/oc.zip
+/efi-backups/
