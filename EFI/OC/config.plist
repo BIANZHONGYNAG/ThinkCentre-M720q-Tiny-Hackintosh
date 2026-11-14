@@ -103,13 +103,14 @@
 				AFAAbABhAHQAZgBvAHIAbQBTAHUAcABwAG8AcgB0AC4A
 				cABsAGkAcwB0
 				</data>
+				<key>Mask</key>
+				<data>
+				AFAAbABhAHQAZgBvAHIAbQBTAHUAcABwAG8AcgB0AC4AcABsAGkAcwB0
+				</data>
 				<key>Identifier</key>
 				<string>Apple</string>
 				<key>Limit</key>
 				<integer>0</integer>
-				<key>Mask</key>
-				<data>
-				</data>
 				<key>Replace</key>
 				<data>
 				AC4ALgAuAC4ALgAuAC4ALgAuAC4ALgAuAC4ALgAuAC4A
@@ -879,25 +880,22 @@
 		<dict>
 			<key>AdviseFeatures</key>
 			<false/>
-			<key>MLB</key>
-			<string>[REPLACE]</string>
-			<key>MaxBIOSVersion</key>
-			<false/>
-			<key>ProcessorType</key>
-			<integer>3841</integer>
-			<key>ROM</key>
-			<data>
-			</data>
-			<key>SpoofVendor</key>
-			<true/>
-			<key>SystemMemoryStatus</key>
-			<string>Auto</string>
-			<key>SystemProductName</key>
-			<string>Macmini8,1</string>
-			<key>SystemSerialNumber</key>
-			<string>[REPLACE]</string>
-			<key>SystemUUID</key>
-			<string>OEM</string>
+						<key>MLB</key>
+						<string>C025B30D2F4A</string>
+						<key>MaxBIOSVersion</key>
+						<false/>
+						<key>ProcessorType</key>
+						<integer>3841</integer>
+						<key>SpoofVendor</key>
+						<true/>
+						<key>SystemMemoryStatus</key>
+						<string>Auto</string>
+						<key>SystemProductName</key>
+						<string>Macmini8,1</string>
+						<key>SystemSerialNumber</key>
+						<string>C07ZMWZ2JYVX</string>
+						<key>SystemUUID</key>
+						<string>B9FDEE37-F5ED-5061-95C0-0B462E6E8792</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
